@@ -50,34 +50,14 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; An Undergraduate Informatics Student at Syiah Kuala University <br/><br/>
+ ✌️ &emsp; An Undergraduate Informatics Student at Syiah Kuala University <br/>
  ❤️ &emsp; I am passionate about programming and keep finding out the latest features<br/><br/>
  📧 &emsp; Reach me anytime: rachmatfajar1603@gmail.com<br/><br/>
 
 </p>
 
 <br/>
-<br/>
-<br/>
 
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/RachmatFajar1603">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RachmatFajar1603">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
     
   
   <br/>
