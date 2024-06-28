@@ -25,7 +25,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam"></a>
     <br>
-    「 I am a full stack web application developer from <b>Indonesia</b> 」
+    「 I am a front end developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
@@ -51,7 +51,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; An Undergraduate Informatics Student at Syiah Kuala University <br/>
- ❤️ &emsp; I am passionate about programming and keep finding out the latest features<br/><br/>
+ ❤️ &emsp; I am passionate about programming and keep finding out the latest features<br/>
  📧 &emsp; Reach me anytime: rachmatfajar1603@gmail.com<br/><br/>
 
 </p>
