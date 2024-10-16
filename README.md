@@ -56,11 +56,19 @@
 
 </p>
 
+<hr>
+<a href="https://github.com/RachmatFajar1603">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RachmatFajar1603&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RachmatFajar1603&layout=compact&theme=algolia"/>
+</a>
+</hr>
 <br/>
 
     
   
   <br/>
+  
 </a>
+
 
 
